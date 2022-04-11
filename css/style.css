@@ -53,6 +53,7 @@ body{
     .circle{
         /* position: absolute; */
         margin: 5rem;
+        margin-top: 3rem;
         margin-bottom: 1.5rem;
         width: 182px;
         height: 182px;
@@ -72,6 +73,7 @@ body{
 
     .main_img>img{
         margin: 5rem;
+        margin-top: 3rem;
         margin-bottom: 1.5rem;
         position: absolute;
         width: 152px;
