@@ -19,7 +19,7 @@ body{
     }
 } */
 
-@media only screen and (max-width:480px) 
+@media only screen and (max-width:720px) 
 {
 
     .container{
@@ -28,7 +28,7 @@ body{
         height: 100vh;        
         /* margin: .5rem; */
         width: 90%;
-        background: rgba(255, 255, 255, 0.47);
+        background: rgba(255, 255, 255, 0.568);
         backdrop-filter: blur(4px);
         border-radius: 20px;
         height: 92%;
