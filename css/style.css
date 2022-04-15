@@ -196,8 +196,18 @@ body{
         right: 1.6rem;
     }
 
-    
+    .shape1{
+        animation: shape left 1 7s linear 0s infinite normal none;
+    }
 
+    @keyframes shape{
+        0% {
+            transform: rotate(0);
+        }
     
+        100% {
+            transform: rotate(360deg);
+        }
+    }
 
 }
